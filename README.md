@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
 1. UI Customization
-2. Use of external libraries to get more custom ui features.
+2. Use of external libraries to get more custom ui featuresq like more icons, and different animations.
 
 ## Video Walkthrough
 
@@ -45,7 +45,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-I think customizing my app's UI was a challenge. I had a hard time implementing the design ideas in mind as a result my app's design is very basic. 
+I think customizing my app's UI without screwing things was a challenge. I had a hard time implementing my design ideas.
 
 ## Credits
 
